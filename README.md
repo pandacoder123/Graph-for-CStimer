@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Go to the [Chrome Web Store]https://chromewebstore.google.com/detail/graph-for-cstimer/afimhhegpcfebnmanmlekljjpoaahkmo)
+1. Go to the [Chrome Web Store](https://chromewebstore.google.com/detail/graph-for-cstimer/afimhhegpcfebnmanmlekljjpoaahkmo)
 2. Click on **Add to Chrome** to install the extension.
 
 ## How to Use
