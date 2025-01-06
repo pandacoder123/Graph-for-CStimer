@@ -42,7 +42,7 @@ If you'd like to contribute or explore the code:
 
 ## Feedback & Support
 
-Have suggestions or found a bug? Feel free to open an issue on the [GitHub repository](https://github.com/your-repo/graph-for-cstimer) or contact me directly. Your feedback is invaluable for improving the extension!
+Have suggestions or found a bug? Feel free to open an issue on the [GitHub repository](https://github.com/pandacoder123/graph-for-cstimer) or contact me directly. Your feedback is invaluable for improving the extension!
 
 ## License
 
