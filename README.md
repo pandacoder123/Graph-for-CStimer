@@ -11,9 +11,8 @@
 
 ## Installation
 
-1. Go to the [Chrome Web Store](https://chrome.google.com/webstore) (link pending publication).
-2. Search for "Graph for CSTimer."
-3. Click on **Add to Chrome** to install the extension.
+1. Go to the [Chrome Web Store]https://chromewebstore.google.com/detail/graph-for-cstimer/afimhhegpcfebnmanmlekljjpoaahkmo)
+2. Click on **Add to Chrome** to install the extension.
 
 ## How to Use
 
@@ -32,7 +31,7 @@ If you'd like to contribute or explore the code:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/graph-for-cstimer.git
+   git clone https://github.com/pandacoder123/graph-for-cstimer.git
    ```
 2. Load the extension in Chrome:
    - Go to `chrome://extensions/`
